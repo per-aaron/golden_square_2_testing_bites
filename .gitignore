@@ -1,1 +1,5 @@
 *venv*/
+.DS_Store
+.coverage
+/lib/__pycache__
+/tests/__pycache__
